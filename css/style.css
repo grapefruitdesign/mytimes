@@ -106,6 +106,25 @@ nav span {
 .column.small {
   width: 240px;
 }
+.stories {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 17px;
+}
+
+.stories .text-content {
+  height: 250px;
+}
+
+.story {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+
+.narrative {
+  margin-top: 16px;
+}
 
 /* Images */
 
