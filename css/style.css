@@ -81,6 +81,7 @@ nav span {
   display: flex;
   margin: 0 auto 78px auto;
   padding-top: 116px;
+  width: 1232px;
 }
 
 .column {
@@ -135,7 +136,7 @@ nav span {
   text-align: center;
 }
 
-.lead-story .image-content {
+.lead-story.image-content {
     background-image: url(../images/img-story-main.png);
     width: 630px;
     margin-top: 0;
